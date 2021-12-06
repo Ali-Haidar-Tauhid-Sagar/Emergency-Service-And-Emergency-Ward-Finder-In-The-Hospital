@@ -1,0 +1,2 @@
+# Emergency Service And Emergency Ward Finder In The Hospital
+ Emergency Service and Emergency Ward Finder In The Hospital has been developed for providing hospital emergency ward booking, information on hospitals, doctors information, ambulance services, and blood banks all over Bangladesh. To find the hospital emergency ward seats are available or not. To check whether the treatment which is looking for is available or not in the hospital.
